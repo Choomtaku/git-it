@@ -8,4 +8,4 @@ Set-Location 'C:\ProgramData\chocolatey\bin'
 .\choco.exe install firefox -y
 .\choco.exe install vlc -y
 .\choco.exe install fscapture -y
-.\choco.exe install ExpressVPN
+.\choco.exe install ExpressVPN -y
