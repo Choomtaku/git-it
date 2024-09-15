@@ -1,4 +1,3 @@
-# Installing Chocolately package manager
 Set-ExecutionPolicy Bypass -Scope Process -Force
 irm https://community.chocolatey.org/install.ps1 | iex
 
