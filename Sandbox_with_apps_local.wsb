@@ -4,8 +4,8 @@
   <MappedFolder>
     <HostFolder>C:\Sandbox</HostFolder>
     <SandboxFolder></SandboxFolder>
-    <ReadOnly>true</Readonly>
-    </MappedFolder>
+    <ReadOnly>true</ReadOnly>
+  </MappedFolder>
 </MappedFolders>
 
 <LogonCommand>
