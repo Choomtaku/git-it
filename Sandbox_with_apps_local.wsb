@@ -1,17 +1,17 @@
 <Configuration>
 
-  <MappedFolders>
-    <MappedFolder>
-      <HostFolder>C:\Sandbox</HostFolder>
-      <SandboxFolder></SandboxFolder>
-      <ReadOnly>true</Readonly>
+<MappedFolders>
+  <MappedFolder>
+    <HostFolder>C:\Sandbox</HostFolder>
+    <SandboxFolder></SandboxFolder>
+    <ReadOnly>true</Readonly>
     </MappedFolder>
-  </MappedFolders>
+</MappedFolders>
 
-  <LogonCommand>
-    <Command>powershell -executionpolicy unrestricted -command "irm https://raw.githubusercontent.com/Choomtaku/git-it/main/sb_apps.ps1 | iex"</Command>
-  </LogonCommand>
+<LogonCommand>
+  <Command>C:\Users\WDAGUtilityAccount\Desktop\Apps\install.bat</Command>
+</LogonCommand>
 
-  <ProtectedClient>Enable</ProtectedClient>
+<ProtectedClient>Enable</ProtectedClient>
 
 </Configuration>
