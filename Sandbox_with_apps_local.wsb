@@ -12,6 +12,4 @@
   <Command>C:\Users\WDAGUtilityAccount\Desktop\Apps\install.bat</Command>
 </LogonCommand>
 
-<ProtectedClient>Enable</ProtectedClient>
-
 </Configuration>
