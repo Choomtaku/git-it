@@ -1,6 +1,6 @@
 <Configuration>
 
   <LogonCommand>
-    <Command>powershell -executionpolicy unrestricted -command "irm https://github.com/Choomtaku/git-it/raw/main/sb_apps.ps1 | iex"</Command>
+    <Command>powershell -executionpolicy unrestricted -command "irm https://raw.githubusercontent.com/Choomtaku/git-it/main/sb_apps.ps1 | iex"</Command>
   <LogonCommand>
 </Configuration>
